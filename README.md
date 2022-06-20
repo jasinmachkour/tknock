@@ -1,4 +1,4 @@
-# trex
+# tknock --> trex
 
 The name of the R package 'tknock' was changed to 'trex'.
 
